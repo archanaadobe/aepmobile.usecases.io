@@ -10,5 +10,5 @@ We will use this space for creating some blogs for Adobe Experience Platform mob
 
 ### Push notifications
 
-Learn about setting up push notifications () 
+Learn about setting up push notifications [a relative link](pushsetup.md)) 
 
