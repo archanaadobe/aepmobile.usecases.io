@@ -6,9 +6,9 @@ We will use this space for creating some blogs for Adobe Experience Platform mob
 
 ### Lifecycle management
 
-### Data collection through experience-edge
+### Data collection
 
-### Push notifications powered by Adobe Experience Platform
+### Push notifications
 
-Learn about setting up push notifications (https://github.com/archanaadobe/aepmobile.usecases.io/edit/gh-pages/pushsetup.md) 
+Learn about setting up push notifications () 
 
