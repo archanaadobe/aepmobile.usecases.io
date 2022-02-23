@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to AEP Mobile SDK blogs
+
+We will use this space for creating some blogs for Adobe Experience Platform mobile SDKs
+
+
+## Editing tips from github
 
 You can use the [editor on GitHub](https://github.com/archanaadobe/aepmobile.usecases.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
