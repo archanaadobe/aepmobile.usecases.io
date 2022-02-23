@@ -1,0 +1,9 @@
+#Mobile Push Notifications in Adobe Journey Optimizer
+
+Whether you are a mobile app developer who is tasked to integrate with Adobe's Push notification or you are the product marketing professional who would like to improve the engagement of your mobile customers, this article should be helpful in understanding the different pieces in automating your mobile push messages using Adobe Journey Optimizer.
+This tutorial expects that you are familiar with basics of mobile development and using XCode or Android Studio depending on your app platform.
+
+
+So you are here..ready to implement Push Notification in your mobile app. In this article we will go through some basics of Push Notification and learn how to set these up using Adobe's web tools and mobile SDKs.
+
+##1. The science of push messages
